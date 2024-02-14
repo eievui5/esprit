@@ -164,7 +164,7 @@ xWorldMap:
 .dmgmap incbin "res/worldmap/crater-dmg.map"
 .hoof incbin "res/worldmap/hoofprint.2bpp"
 .objTiles
-	incbin "res/worldmap/floppy.2bpp"
+	incbin "res/worldmap/floppy.obj.2bpp"
 	incbin "res/worldmap/haze1.2bpp"
 	incbin "res/worldmap/haze2.2bpp"
 	incbin "res/worldmap/duck.2bpp"
@@ -176,7 +176,7 @@ xWorldMap:
 	incbin "res/worldmap/duck.pal8", 3
 	incbin "res/worldmap/hoofprint.pal8", 3
 	incbin "res/worldmap/haze1.pal8", 3
-	incbin "res/worldmap/floppy.pal8", 3
+	incbin "res/worldmap/floppy.obj.pal8", 3
 
 section "Map State Init", rom0
 InitMap::

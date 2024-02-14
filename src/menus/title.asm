@@ -46,17 +46,17 @@ xTitleMapDmg:
 	incbin "res/ui/title/title_screen_dmg.map"
 
 xSleepingProtags:
-	incbin "res/ui/title/luvui_sleeping.2bpp"
-	incbin "res/ui/title/aris_sleeping.2bpp"
-	incbin "res/ui/title/campfire.2bpp"
-	incbin "res/ui/title/stars.2bpp"
+	incbin "res/ui/title/luvui_sleeping.obj.2bpp"
+	incbin "res/ui/title/aris_sleeping.obj.2bpp"
+	incbin "res/ui/title/campfire.obj.2bpp"
+	incbin "res/ui/title/stars.obj.2bpp"
 	incbin "res/ui/title/text_sprites.2bpp"
 .end
 xProtagPalettes:
-	incbin "res/ui/title/luvui_sleeping.pal8", 3
-	incbin "res/ui/title/aris_sleeping.pal8", 3
-	incbin "res/ui/title/campfire.pal8", 3
-	incbin "res/ui/title/stars.pal8", 3
+	incbin "res/ui/title/luvui_sleeping.obj.pal8", 3
+	incbin "res/ui/title/aris_sleeping.obj.pal8", 3
+	incbin "res/ui/title/campfire.obj.pal8", 3
+	incbin "res/ui/title/stars.obj.pal8", 3
 	incbin "res/ui/title/text_sprites.pal8", 3
 	hex 404040, ff0000, 000000
 

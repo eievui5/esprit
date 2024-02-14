@@ -1,7 +1,3 @@
--a res/scenes/field_scene_map1.pmap
--t res/scenes/field_scene_map1.map
--o res/scenes/field_scene_map1.2bpp
--p res/scenes/field_scene_map1.pal
 -u
 -c embedded
 -b 0x80

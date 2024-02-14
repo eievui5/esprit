@@ -1,6 +1,2 @@
--a res/scenes/lake_scene_beachside.pmap
--t res/scenes/lake_scene_beachside.map
--o res/scenes/lake_scene_beachside.2bpp
--p res/scenes/lake_scene_beachside.pal
 -u
 -b 0x80

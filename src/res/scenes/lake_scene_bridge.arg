@@ -1,6 +1,2 @@
--a res/scenes/lake_scene_bridge.pmap
--t res/scenes/lake_scene_bridge.map
--o res/scenes/lake_scene_bridge.2bpp
--p res/scenes/lake_scene_bridge.pal
 -u
 -b 0x80

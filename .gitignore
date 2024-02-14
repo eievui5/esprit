@@ -1,7 +1,6 @@
 /bin/
 /obj/
 /dep/
-/res/
 /debug/
 /.vscode/
 __pycache__/
@@ -10,3 +9,4 @@ __pycache__/
 charmap.inc
 *.DS_Store
 *.sublime-project
+.redo

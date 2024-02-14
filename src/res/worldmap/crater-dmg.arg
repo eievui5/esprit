@@ -1,4 +1,2 @@
 -b 0x80
--t res/worldmap/crater-dmg.map
--o res/worldmap/crater-dmg.2bpp
 -u

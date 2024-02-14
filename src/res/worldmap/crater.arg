@@ -1,7 +1,3 @@
 -b 0x80
--t res/worldmap/crater.map
--a res/worldmap/crater.pmap
--o res/worldmap/crater.2bpp
--p res/worldmap/crater.pal
 -m
 -n 7

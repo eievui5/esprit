@@ -17,7 +17,7 @@ macro themes
 				db bank(FIRST_NAME)
 				dw FIRST_NAME
 			endc
-			incbin "res/ui/\2_cursor.2bpp"
+			incbin "res/ui/\2_cursor.obj.2bpp"
 			dw .end - .emblem, .emblem, .map
 			db "{CUR_NAME}", 0
 		.emblem incbin "res/ui/\2_emblem.2bpp"

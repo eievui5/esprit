@@ -1,7 +1,3 @@
--a res/scenes/barrel_scene_map.pmap
--t res/scenes/barrel_scene_map.map
--o res/scenes/barrel_scene_map.2bpp
--p res/scenes/barrel_scene_map.pal
 -u
 -b 0x80
 -c #aa5f29,#80592c,#6d3913,#000;#e1c44d,#80592c,#b2951d,#544403;#ff0000,#80592c,#720808,#000;#5aa069,#80592c,#fff,#000
